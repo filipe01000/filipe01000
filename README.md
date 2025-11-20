@@ -12,7 +12,7 @@
 ---
 
 ## 🔥 Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=filipe01000&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipe01000&layout=compact&theme=tokyonight)
 
 ---
 
