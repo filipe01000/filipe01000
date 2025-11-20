@@ -12,7 +12,7 @@
 ---
 
 ## 🔥 Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=filipe01000&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=filipe01000&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
