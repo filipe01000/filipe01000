@@ -1,6 +1,6 @@
-## 👋 Hey! Eu sou o Filipe
+## 👋 Desenvolvedor em formação
 
-**Python Developer | Backend | Automação**
+🐍 Python Developer | Backend | Automação
 
 ### 🧰 Ferramentas que uso
 - VS Code  
