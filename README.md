@@ -1,4 +1,4 @@
-## 👋 Desenvolvedor em formação
+## 👋 Desenvolvedor Python em formação
 
 🐍 Python Developer | Backend | Automação
 
