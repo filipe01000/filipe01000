@@ -2,20 +2,19 @@
 
 **Cybersecurity Technician III | SOC N1 | Blue Team | SIEM | Threat Hunting | Detection Engineering**
 
-I am a cybersecurity professional focused on SOC operations, log analysis, SIEM, Blue Team, DFIR, Threat Hunting and Detection Engineering.
+Cybersecurity professional focused on SOC operations, log analysis, SIEM, Blue Team, DFIR, Threat Hunting and Detection Engineering.
 
-My current goal is to evolve from SOC N1 to Security Analyst by building practical labs, documenting investigations and developing tools that support real defensive security workflows.
+I build hands-on security labs, analyze real-world-style logs and develop tools to support defensive security workflows.
 
-## Current focus
+## Main focus
 
 - SOC analysis and incident triage
 - SIEM and log correlation
 - FortiGate and Fortinet-style log analysis
-- Wazuh, pfSense and home lab environments
+- Wazuh, pfSense and Proxmox labs
 - MITRE ATT&CK mapping
 - Threat Hunting methodology
 - Detection Engineering
-- Web and API security fundamentals
 - AI-assisted security tooling
 
 ## Main project
