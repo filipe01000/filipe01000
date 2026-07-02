@@ -1,48 +1,75 @@
 # Filipe Augusto
 
-**Cybersecurity Technician III | SOC N1 | Blue Team | SIEM | Threat Hunting | Detection Engineering**
+**Técnico de Cibersegurança III | SOC N1 | Blue Team | SIEM | Threat Hunting | Engenharia de Detecção**
 
-Cybersecurity professional focused on SOC operations, log analysis, SIEM, Blue Team, DFIR, Threat Hunting and Detection Engineering.
+Sou profissional de Segurança da Informação com foco em operações de SOC, análise de logs, SIEM, Blue Team, DFIR, Threat Hunting e Engenharia de Detecção.
 
-I build hands-on security labs, analyze real-world-style logs and develop tools to support defensive security workflows.
+Atualmente estou evoluindo de uma atuação operacional em SOC N1 para uma base mais sólida em análise de segurança, investigação de incidentes, correlação de eventos, MITRE ATT&CK, laboratórios práticos e desenvolvimento de ferramentas para apoio à segurança defensiva.
 
-## Main focus
+Meu foco é aprender construindo: criar laboratórios, analisar logs, documentar investigações, simular incidentes e desenvolver projetos aplicáveis ao dia a dia de um SOC.
 
-- SOC analysis and incident triage
-- SIEM and log correlation
-- FortiGate and Fortinet-style log analysis
-- Wazuh, pfSense and Proxmox labs
-- MITRE ATT&CK mapping
-- Threat Hunting methodology
-- Detection Engineering
-- AI-assisted security tooling
+## Áreas de foco
 
-## Main project
+- Análise de alertas e triagem de incidentes
+- Leitura e interpretação de logs
+- SIEM e correlação de eventos
+- Blue Team e resposta a incidentes
+- Threat Hunting
+- DFIR básico
+- Engenharia de Detecção
+- MITRE ATT&CK
+- FortiGate e logs Fortinet
+- Wazuh, pfSense e Proxmox
+- Segurança Web e API
+- Automação e ferramentas com IA aplicadas à segurança
+
+## Projeto principal
 
 ### AI Log Generator
 
-A web platform for generating synthetic and realistic logs for SOC, Blue Team, DFIR, Threat Hunting, Pentest, CTFs and detection engineering labs.
+Plataforma web para geração de logs sintéticos realistas voltada para treinamentos de SOC, Blue Team, DFIR, Threat Hunting, Pentest, CTFs, laboratórios e engenharia de detecção.
 
-The project includes:
+O projeto permite criar cenários simulados, gerar logs por fabricante, visualizar raw logs, validar parser, mapear eventos com MITRE ATT&CK e utilizar IA para análise e sugestões de ajuste.
 
-- Dashboard for generated log metrics
-- Synthetic log generation by vendor, severity and event type
-- MITRE ATT&CK mapping
-- Raw log viewer
-- Parser view
-- AI-assisted log analysis
-- Export to TXT, JSON, CSV, Syslog, CEF, LEEF, simulated EVTX and NDJSON
-- Light and dark mode
-- OpenAI and Ollama-ready architecture
+Principais recursos:
 
-Repository:
+- Dashboard com métricas operacionais
+- Geração de logs sintéticos por fabricante, evento e severidade
+- Suporte a FortiGate, Wazuh, Sysmon, Windows Security, Linux, Web, Cloud e outros
+- Visualização de logs em modo raw concentrado
+- Parser para campos normalizados
+- Análise com IA para triagem e ajustes
+- Exportação em TXT, JSON, CSV, Syslog, CEF, LEEF, EVTX simulado e NDJSON
+- Modo claro e escuro
+- Integração opcional com OpenAI API e Ollama local
+
+Repositório:
 
 [AI Log Generator](https://github.com/filipe01000/ai-log-generator)
 
-## Technical areas
+## Laboratório de estudos
+
+Meu laboratório pessoal tem como objetivo simular ambientes próximos da rotina de SOC e Segurança da Informação.
+
+Componentes utilizados ou planejados:
+
+- Proxmox
+- pfSense
+- Wazuh
+- Windows Server
+- Endpoints Windows
+- Servidores Linux
+- Simulação de logs Fortinet
+- Segmentação de rede
+- Encaminhamento de logs
+- Análise de eventos
+- Exercícios de detecção e resposta
+
+## Tecnologias e ferramentas
 
 ```text
-SOC | Blue Team | SIEM | DFIR | Threat Hunting | Detection Engineering
-FortiGate | FortiSIEM | Wazuh | pfSense | Proxmox | Windows Security
-Sysmon | Linux Logs | MITRE ATT&CK | OWASP | Web/API Security
-Next.js | TypeScript | Python | Bash | Prisma | SQLite | OpenAI API
+SOC | Blue Team | SIEM | Threat Hunting | DFIR | MITRE ATT&CK
+FortiGate | FortiSIEM | Wazuh | pfSense | Proxmox
+Windows Security | Sysmon | Linux Logs | Firewall | IDS | IPS
+Next.js | React | TypeScript | Python | Prisma | SQLite
+OpenAI API | Ollama | Git | GitHub
