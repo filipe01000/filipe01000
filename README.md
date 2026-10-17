@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>SOC Analyst N1 → Pentest</b><br>
-  Defendo de dia, estudo ataque de noite. Construo ferramentas em Python para entender os dois lados.
 </p>
 
 <p align="center">
@@ -58,4 +57,5 @@ IA          OpenAI API · Ollama
 
 ## Certificações
 
-Fortinet NSE 1 · NSE 2 · NSE 3
+- Microsoft 365 Certified: Modern Desktop Administrator Associate
+- Fortinet NSE 1 · NSE 2 · NSE 3
