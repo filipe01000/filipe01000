@@ -1,75 +1,61 @@
-# Filipe Augusto
+<h1 align="center">Filipe Augusto</h1>
 
-**Técnico de Cibersegurança III | SOC N1 | Blue Team | SIEM | Threat Hunting | Engenharia de Detecção**
+<p align="center">
+  <b>SOC Analyst N1 → Pentest</b><br>
+  Defendo de dia, estudo ataque de noite. Construo ferramentas em Python para entender os dois lados.
+</p>
 
-Sou profissional de Segurança da Informação com foco em operações de SOC, análise de logs, SIEM, Blue Team, DFIR, Threat Hunting e Engenharia de Detecção.
+<p align="center">
+  <a href="https://www.linkedin.com/in/filipeaugusto29/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Salvador%20--%20BA-1e2327?style=for-the-badge">
+</p>
 
-Atualmente estou evoluindo de uma atuação operacional em SOC N1 para uma base mais sólida em análise de segurança, investigação de incidentes, correlação de eventos, MITRE ATT&CK, laboratórios práticos e desenvolvimento de ferramentas para apoio à segurança defensiva.
+---
 
-Meu foco é aprender construindo: criar laboratórios, analisar logs, documentar investigações, simular incidentes e desenvolver projetos aplicáveis ao dia a dia de um SOC.
+## Sobre mim
 
-## Áreas de foco
+Trabalho em operação de SOC: triagem de alertas no **FortiSIEM**, análise de eventos e bloqueio de IPs maliciosos em ambientes de clientes.
 
-- Análise de alertas e triagem de incidentes
-- Leitura e interpretação de logs
-- SIEM e correlação de eventos
-- Blue Team e resposta a incidentes
-- Threat Hunting
-- DFIR básico
-- Engenharia de Detecção
-- MITRE ATT&CK
-- FortiGate e logs Fortinet
-- Wazuh, pfSense e Proxmox
-- Segurança Web e API
-- Automação e ferramentas com IA aplicadas à segurança
+Meu próximo passo é o **pentest**. Vir do Blue Team me dá uma vantagem: eu sei como um ataque aparece no log. Por isso meus estudos ofensivos sempre terminam com a pergunta *"como o SOC veria isso?"*.
 
-## Projeto principal
+Gosto de aprender construindo: crio ferramentas, laboratórios e simulações, usando **Python** e desenvolvimento assistido por IA para tirar ideias do papel rápido.
 
-### AI Log Generator
+## No dia a dia
 
-Plataforma web para geração de logs sintéticos realistas voltada para treinamentos de SOC, Blue Team, DFIR, Threat Hunting, Pentest, CTFs, laboratórios e engenharia de detecção.
+- Triagem e análise de alertas no SIEM (FortiSIEM)
+- Leitura de logs de firewall (FortiGate)
+- Gestão de blocklists e resposta inicial a incidentes
 
-O projeto permite criar cenários simulados, gerar logs por fabricante, visualizar raw logs, validar parser, mapear eventos com MITRE ATT&CK e utilizar IA para análise e sugestões de ajuste.
+## Estudando agora
 
-Principais recursos:
+- [ ] Pentest web e de infraestrutura (HackTheBox / TryHackMe)
+- [ ] Linux e redes com foco ofensivo
+- [ ] Python para automação de recon
+- [ ] MITRE ATT&CK — do ponto de vista do atacante e do defensor
 
-- Dashboard com métricas operacionais
-- Geração de logs sintéticos por fabricante, evento e severidade
-- Suporte a FortiGate, Wazuh, Sysmon, Windows Security, Linux, Web, Cloud e outros
-- Visualização de logs em modo raw concentrado
-- Parser para campos normalizados
-- Análise com IA para triagem e ajustes
-- Exportação em TXT, JSON, CSV, Syslog, CEF, LEEF, EVTX simulado e NDJSON
-- Modo claro e escuro
-- Integração opcional com OpenAI API e Ollama local
+## Projetos
 
-Repositório:
+| Projeto | O que é | Stack |
+|---|---|---|
+| [**AI Log Generator**](https://github.com/filipe01000/ai-log-generator) | Gera logs sintéticos realistas (FortiGate, Wazuh, Sysmon, Windows, Linux...) para treinar SOC, detecção e CTFs. Mapeia eventos no MITRE ATT&CK e usa IA (OpenAI ou Ollama local) para análise. | TypeScript · Next.js · Ollama |
+| [**Guardlist**](https://github.com/filipe01000/guardlist) | Gerenciamento de blocklists de firewall. | TypeScript |
 
-[AI Log Generator](https://github.com/filipe01000/ai-log-generator)
+> Em breve: ferramentas de recon em Python e writeups de pentest com a visão do SOC em cada máquina.
 
-## Laboratório de estudos
+## Laboratório
 
-Meu laboratório pessoal tem como objetivo simular ambientes próximos da rotina de SOC e Segurança da Informação.
+Ambiente pessoal para atacar e defender:
 
-Componentes utilizados ou planejados:
+`Proxmox` · `pfSense` · `Wazuh` · `Kali Linux` · `Windows Server` · `Linux`
 
-- Proxmox
-- pfSense
-- Wazuh
-- Windows Server
-- Endpoints Windows
-- Servidores Linux
-- Simulação de logs Fortinet
-- Segmentação de rede
-- Encaminhamento de logs
-- Análise de eventos
-- Exercícios de detecção e resposta
+## Stack
 
-## Tecnologias e ferramentas
+```
+Segurança   FortiSIEM · FortiGate · Wazuh · MITRE ATT&CK · Kali Linux
+Código      Python · TypeScript · Next.js · React · Django
+IA          OpenAI API · Ollama
+```
 
-```text
-SOC | Blue Team | SIEM | Threat Hunting | DFIR | MITRE ATT&CK
-FortiGate | FortiSIEM | Wazuh | pfSense | Proxmox
-Windows Security | Sysmon | Linux Logs | Firewall | IDS | IPS
-Next.js | React | TypeScript | Python | Prisma | SQLite
-OpenAI API | Ollama | Git | GitHub
+## Certificações
+
+Fortinet NSE 1 · NSE 2 · NSE 3
