@@ -37,10 +37,21 @@ Gosto de aprender construindo: crio ferramentas, laboratórios e simulações, u
 | Projeto | O que é | Stack |
 |---|---|---|
 | [**AI Log Generator**](https://github.com/filipe01000/ai-log-generator) | Gera logs sintéticos realistas (FortiGate, Wazuh, Sysmon, Windows, Linux...) para treinar SOC, detecção e CTFs. Mapeia eventos no MITRE ATT&CK e usa IA (OpenAI ou Ollama local) para análise. | TypeScript · Next.js · Ollama |
-| [**Guardlist**](https://github.com/filipe01000/guardlist) | Gerenciamento de blocklists de firewall. | TypeScript |
+| [**GuardList**](https://github.com/filipe01000/guardlist) · [abrir](https://guardlist.onrender.com) | Gestão de blocklists por cliente, com importação validada, reputação de IPs, correlação entre clientes, MFA e auditoria. | React, TypeScript, Node.js, PostgreSQL |
 | [**Gerenciador de Fraseologias**](https://github.com/filipe01000/fraseologia-manager) | Catálogo de textos padronizados para equipes de suporte, com busca e prévia ao vivo. | Python, Django |
+| [**filipeti.com.br**](https://filipeti.com.br) | Meu site de serviços de TI e criação de sites, com tema que acompanha a hora e o clima de Salvador. | HTML, CSS, JavaScript |
+| [**Portfólio**](https://cv.filipeti.com.br) | Portfólio interativo em forma de sistema solar, em que cada planeta é um projeto. | HTML, CSS, JavaScript |
 
 > Em breve: ferramentas de recon em Python e writeups de pentest com a visão do SOC em cada máquina.
+
+## Vibe coding
+
+Construo software conversando com agentes de IA, mas sem abrir mão do olhar de segurança. A IA acelera; a responsabilidade pelo resultado continua sendo minha.
+
+- **Da ideia ao deploy:** o GuardList, o SOC AI Log Generator e meus sites foram construídos com desenvolvimento assistido por IA
+- **Direção antes do código:** defino o problema, o escopo e o resultado esperado antes de pedir a implementação
+- **Revisão com olhar de segurança:** segredos fora do código, validação de entrada, autenticação, MFA e dependências auditadas
+- **Nada é aceito sem prova:** testes automatizados, CI e validação no navegador antes de publicar
 
 ## Laboratório
 
@@ -53,7 +64,7 @@ Ambiente pessoal para atacar e defender:
 ```
 Segurança   FortiSIEM · FortiGate · Wazuh · MITRE ATT&CK · Kali Linux
 Código      Python · TypeScript · Next.js · React · Django
-IA          OpenAI API · Ollama
+IA          Claude Code · Codex · OpenAI API · Ollama
 ```
 
 ## Certificações
