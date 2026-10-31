@@ -1,7 +1,7 @@
 <h1 align="center">Filipe Augusto</h1>
 
 <p align="center">
-  <b>SOC Analyst N1 → Pentest</b><br>
+  <b>Técnico de Segurança Cibernética → Pentest</b><br>
 </p>
 
 <p align="center">
@@ -38,6 +38,7 @@ Gosto de aprender construindo: crio ferramentas, laboratórios e simulações, u
 |---|---|---|
 | [**AI Log Generator**](https://github.com/filipe01000/ai-log-generator) | Gera logs sintéticos realistas (FortiGate, Wazuh, Sysmon, Windows, Linux...) para treinar SOC, detecção e CTFs. Mapeia eventos no MITRE ATT&CK e usa IA (OpenAI ou Ollama local) para análise. | TypeScript · Next.js · Ollama |
 | [**Guardlist**](https://github.com/filipe01000/guardlist) | Gerenciamento de blocklists de firewall. | TypeScript |
+| [**Gerenciador de Fraseologias**](https://github.com/filipe01000/fraseologia-manager) | Catálogo de textos padronizados para equipes de suporte, com busca e prévia ao vivo. | Python, Django |
 
 > Em breve: ferramentas de recon em Python e writeups de pentest com a visão do SOC em cada máquina.
 
