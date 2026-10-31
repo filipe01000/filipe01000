@@ -71,3 +71,13 @@ IA          Claude Code · Codex · OpenAI API · Ollama
 
 - Microsoft 365 Certified: Modern Desktop Administrator Associate
 - Fortinet NSE 1 · NSE 2 · NSE 3
+
+---
+
+<p align="center">
+  <img src="./assets/cobrinha.svg" alt="Cobrinha animada percorrendo um tabuleiro">
+</p>
+
+<p align="center">
+  <a href="https://filipeti.com.br/jogo.html"><img src="./assets/banner-jogo.svg" alt="Jogue a Cobrinha no meu site"></a>
+</p>
