@@ -1,7 +1,5 @@
-<h1 align="center">Filipe Augusto</h1>
-
 <p align="center">
-  <b>Técnico de Segurança Cibernética → Pentest</b><br>
+  <img src="./assets/banner-perfil.svg" alt="Filipe Augusto, Técnico de Segurança Cibernética a caminho do Pentest">
 </p>
 
 <p align="center">
